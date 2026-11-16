@@ -1,0 +1,1 @@
+go run 02_io_writer/~.go
