@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Local build / profiling outputs
+/bin/
+*.test
+coverage.out
+*.prof
+
+# Editor settings
+.idea/
+.vscode/
+
+# Local environment files
+.env
+.env.local
